@@ -19,8 +19,8 @@ All tests were created using **Postman** and exported to support automated execu
 
 | **File/Folder**                                | **Description**                                                                 |
 |------------------------------------------------|---------------------------------------------------------------------------------|
-| `grocery-recipe-api-tests.postman_collection.json` | Postman collection containing all the test modules.         |
-| `TestExecutionReport.html`                     | Exported HTML report showing the results of test execution.             |
+| [grocery-app.postman_collection.json](./grocery-app.postman_collection.json) | Postman collection containing all the test modules.         |
+| [grocery-app-report.html](./grocery-app-report.html)                    | Exported HTML report showing the results of test execution.             |
 
 ---
 
@@ -39,7 +39,7 @@ All tests were created using **Postman** and exported to support automated execu
 
 After test execution, you can find a detailed HTML report at:
 
-* `TestExecutionReport.html`
+* [grocery-app-report.html](./grocery-app-report.html)
 
 This report includes:
 
